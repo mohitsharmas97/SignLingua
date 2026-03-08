@@ -1,4 +1,4 @@
-# Sign Kit - Multi-Language Sign Language Detection Platform
+# SignLingua- Multi-Language Sign Language Detection Platform
 
 A full-stack web application for real-time sign language detection, learning, and practice. Sign Kit supports three sign language systems — American Sign Language (ASL), Indian Sign Language (ISL), and Tamil Sign Language (TSL) — using machine learning models powered by MediaPipe hand tracking.
 
